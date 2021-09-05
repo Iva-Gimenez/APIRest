@@ -1,0 +1,4 @@
+com\informatorio\storeinformatorio\entity\Orden$OrdenBuilder.class
+com\informatorio\storeinformatorio\controller\exceptions\FormatError$FormatErrorBuilder.class
+com\informatorio\storeinformatorio\model\CarritoItemModel$CarritoItemModelBuilder.class
+com\informatorio\storeinformatorio\model\ProductModel$ProductModelBuilder.class
